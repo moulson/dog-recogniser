@@ -1,0 +1,6 @@
+dogs-vs-cats/
+test/
+train/
+validation/
+
+!darcy_test/*
